@@ -262,7 +262,7 @@ blockquote:after {
   box-sizing: border-box;
 }
 .tw-header.tw-header-transparent {
-  background-color: transparent;
+  background-color: black;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   position: absolute;
   top: 0;
